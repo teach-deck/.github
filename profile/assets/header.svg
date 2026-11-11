@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Teach Deck</title>
+  <desc id="desc">Less checking. More teaching.</desc>
+  <rect width="1200" height="480" rx="36" fill="#F7F4EE"/>
+  <rect x="24" y="24" width="1152" height="432" rx="28" fill="#171717"/>
+  <circle cx="1040" cy="90" r="104" fill="#FF4B3E"/>
+  <circle cx="1112" cy="400" r="150" fill="#7776FF" opacity="0.95"/>
+  <g transform="translate(76 82)">
+    <rect x="0" y="40" width="188" height="220" rx="38" fill="#FF4B3E" transform="rotate(-7 94 150)"/>
+    <rect x="32" y="18" width="188" height="220" rx="38" fill="#F7F4EE"/>
+    <path d="M76 133l34 34 70-78" fill="none" stroke="#171717" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="338" y="205" fill="#F7F4EE" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-4">teach deck</text>
+  <text x="342" y="270" fill="#B8B5AE" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="-0.5">less checking. more teaching.</text>
+  <rect x="342" y="316" width="112" height="12" rx="6" fill="#FF4B3E"/>
+  <rect x="466" y="316" width="64" height="12" rx="6" fill="#7776FF"/>
+</svg>
+
