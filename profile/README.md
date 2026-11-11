@@ -1,24 +1,23 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Teach Deck — less checking, more teaching" width="100%" />
+  <img src="./assets/header.svg" alt="Teach Deck — меньше проверки, больше преподавания" width="100%" />
 </p>
 
-## Tools that return time to teachers
+## Инструменты, которые возвращают учителю время
 
-Teach Deck is building a calm, teacher-controlled workflow for checking handwritten work. The system reads what a student actually wrote, applies the teacher's key or rubric, and brings every uncertain decision back to the teacher.
+Teach Deck создаёт спокойный и управляемый учителем процесс проверки рукописных работ. Система читает то, что фактически написал ученик, применяет ключ или критерии учителя и возвращает каждое спорное решение на ручную проверку.
 
-### What we care about
+### Что для нас важно
 
-| Honest reading | Teacher control | Privacy by design |
+| Честное чтение | Контроль учителя | Защита данных |
 | --- | --- | --- |
-| Preserve mistakes instead of silently correcting them. | AI suggests; the teacher approves the result. | Student identity stays outside the grading pipeline. |
+| Сохраняем ошибки ученика, а не исправляем их незаметно. | Система предлагает, учитель принимает решение. | Личность ученика не участвует в процессе проверки. |
 
-### What we are building first
+### Что мы создаём первым
 
-- Batch capture for handwritten English assignments
-- Verbatim transcription with uncertainty markers
-- Deterministic scoring for key-based exercises
-- Assisted review for EGE tasks 37 and 38
-- Measured accuracy, time saved, and processing cost
+- пакетную загрузку рукописных работ с телефона и из PDF;
+- дословную транскрипцию с отметками неуверенности;
+- детерминированную проверку упражнений по ключу;
+- рекомендательную проверку заданий 37 и 38 ЕГЭ;
+- измерение точности, сэкономленного времени и стоимости обработки.
 
-> **Less checking. More teaching.**
-
+> **Меньше проверки. Больше преподавания.**
