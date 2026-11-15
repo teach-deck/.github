@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Аспекта</title>
+  <title id="title">Teach Deck</title>
   <desc id="desc">Проверка, которой можно доверять. Создать, решить, проверить и понять результат.</desc>
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
@@ -14,7 +14,7 @@
     <circle cx="166" cy="24" r="19" fill="#087F5B" stroke="#F7F8F7" stroke-width="7"/>
     <path d="M62 77h66M62 108h82M62 139h54" fill="none" stroke="#B8C5C0" stroke-width="8" stroke-linecap="round"/>
   </g>
-  <text x="360" y="176" fill="#171A19" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="720" letter-spacing="-4">Аспекта</text>
+  <text x="360" y="176" fill="#171A19" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="720" letter-spacing="-4">Teach Deck</text>
   <text x="364" y="238" fill="#4D5A55" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="540">Проверка, которой можно доверять.</text>
   <g transform="translate(364 286)" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600">
     <text x="0" y="0" fill="#087F5B">Создать</text>
